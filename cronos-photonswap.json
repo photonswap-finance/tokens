@@ -4,7 +4,7 @@
     "version": {
         "major": 6,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "tags": {},
     "logoURI": "https://photonswap.finance/cro.png",
@@ -132,6 +132,14 @@
             "decimals": 6,
             "chainId": 25,
             "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/USDC.png"
+        },
+        {
+            "name": "ESSO",
+            "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+            "symbol": "ESSO",
+            "decimals": 8,
+            "chainId": 25,
+            "logoURI": "https://photonswap.finance/esso.png"
         }
     ]
 }
