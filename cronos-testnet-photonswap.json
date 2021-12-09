@@ -1,0 +1,32 @@
+{
+    "name": "Cronos Testnet Token List",
+    "timestamp": "2021-07-08T07:24:15.408Z",
+    "version": {
+        "major": 6,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/cro.png",
+    "keywords": [
+        "CRONOS_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped CRO",
+            "address": "0xa85d35eb8E439078a1810Ec3738997E61d157f0d",
+            "symbol": "wCRO",
+            "decimals": 18,
+            "chainId": 338,
+            "logoURI": "https://photonswap.finance/cro.png"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0xCea2b0c503ae691c8AAeC0431E9C0431Ce096Da6",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 338,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "Mumbai Matic Testnet Token List",
+    "timestamp": "2021-07-08T07:24:15.408Z",
+    "version": {
+        "major": 6,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/matic.png",
+    "keywords": [
+        "MUMBAI_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped Matic",
+            "address": "0x77e66C840e7198C95500f7f547543E1466C5CB2c",
+            "symbol": "wMatic",
+            "decimals": 18,
+            "chainId": 80001,
+            "logoURI": "https://photonswap.finance/matic.png"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0x7a9F89bcef3840eccC218293aEd7B1317CF077c9",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 80001,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}

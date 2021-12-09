@@ -1,0 +1,15 @@
+{
+    "name": "BSC Testnet Token List",
+    "timestamp": "2021-07-08T07:24:15.408Z",
+    "version": {
+        "major": 6,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/bsc.png",
+    "keywords": [
+        "BSC_TESTNET"
+    ],
+    "tokens": []
+}
