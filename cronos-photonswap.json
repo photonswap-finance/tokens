@@ -3,7 +3,7 @@
     "timestamp": "2021-07-08T07:24:15.408Z",
     "version": {
         "major": 8,
-        "minor": 0,
+        "minor": 1,
         "patch": 0
     },
     "tags": {},
@@ -145,7 +145,7 @@
         {
             "name": "CROCOS",
             "address": "0x34bAC19d5EAd9f92252eA81Ca9014799C32ff123",
-            "symbol": "CROCOS",
+            "symbol": "CRC",
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
