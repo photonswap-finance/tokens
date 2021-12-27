@@ -3,7 +3,7 @@
     "timestamp": "2021-07-08T07:24:15.408Z",
     "version": {
         "major": 8,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tags": {},
@@ -150,11 +150,9 @@
             "chainId": 25,
             "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
         },
-        
-        
         {
             "name": "Cro-Magnon Plan",
-            "address": "0x34bAC19d5EAd9f92252eA81Ca9014799C32ff123",
+            "address": "0x422c93ADf13B74540DcdB99e8D75Aa3841809A0f",
             "symbol": "CMP",
             "decimals": 18,
             "chainId": 25,
