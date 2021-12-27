@@ -149,6 +149,16 @@
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
+        },
+        
+        
+        {
+            "name": "Cro-Magnon Plan",
+            "address": "0x34bAC19d5EAd9f92252eA81Ca9014799C32ff123",
+            "symbol": "CMP",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://static.wixstatic.com/media/c53232_29ee50f2e8914585a9f22461cff72358~mv2.png"
         }
     ]
 }
