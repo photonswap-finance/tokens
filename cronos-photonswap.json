@@ -2,7 +2,7 @@
     "name": "Cronos Token List",
     "timestamp": "2021-07-08T07:24:15.408Z",
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 0,
         "patch": 0,
     },
@@ -157,14 +157,6 @@
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://static.wixstatic.com/media/c53232_29ee50f2e8914585a9f22461cff72358~mv2.png"
-        },
-        {
-            "name": "Micro Finance",
-            "address": "0x704a51BdAcC8cB12d2E73d64E0af961d59DE53D6",
-            "symbol": "MCRO",
-            "decimals": 18,
-            "chainId": 25,
-            "logoURI": "https://pbs.twimg.com/profile_images/1490010410489110528/nMaA5nWW_400x400.jpg"
         }
     ]
 }
