@@ -4,7 +4,7 @@
     "version": {
         "major": 12,
         "minor": 1,
-        "patch": 0
+        "patch": 2
     },
     "tags": {},
     "logoURI": "https://photonswap.finance/cro.png",
@@ -156,6 +156,14 @@
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://static.wixstatic.com/media/c53232_29ee50f2e8914585a9f22461cff72358~mv2.png"
+        },
+        {
+            "name": "Micro Finance",
+            "address": "0x704a51BdAcC8cB12d2E73d64E0af961d59DE53D6",
+            "symbol": "MCRO",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://pbs.twimg.com/profile_images/1490010410489110528/nMaA5nWW_400x400.jpg"
         }
     ]
 }
