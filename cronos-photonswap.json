@@ -1,9 +1,9 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2021-07-08T07:24:15.408Z",
+    "timestamp": "2022-02-09T11:49:15.408Z",
     "version": {
         "major": 10,
-        "minor": 0,
+        "minor": 1,
         "patch": 0,
     },
     "tags": {},
@@ -141,7 +141,6 @@
             "chainId": 25,
             "logoURI": "https://photonswap.finance/esso.png"
         },
-        
         {
             "name": "CROCOS",
             "address": "0x34bAC19d5EAd9f92252eA81Ca9014799C32ff123",
