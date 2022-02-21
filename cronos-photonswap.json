@@ -4,7 +4,7 @@
     "version": {
         "major": 12,
         "minor": 1,
-        "patch": 6
+        "patch": 7
     },
     "tags": {},
     "logoURI": "https://photonswap.finance/cro.png",
@@ -170,6 +170,14 @@
             "address": "0x058EebF75265022Acb0Ece05D9d61082E3e46c75",
             "symbol": "DLC",
             "decimals": 8,
+            "chainId": 25,
+            "logoURI": "https://static.wixstatic.com/media/2a0d11_9fc2bb2f9f9a4202bdb9a336a61da716~mv2.png"
+        },
+        {
+            "name": "CroBank",
+            "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
+            "symbol": "BANK",
+            "decimals": 9,
             "chainId": 25,
             "logoURI": "https://static.wixstatic.com/media/2a0d11_9fc2bb2f9f9a4202bdb9a336a61da716~mv2.png"
         }
