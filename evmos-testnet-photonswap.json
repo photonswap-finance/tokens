@@ -1,0 +1,32 @@
+{
+    "name": "EVMOS Testnet",
+    "timestamp": "2022-02-22T06:20:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/evmos.svg",
+    "keywords": [
+        "EVMOS_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped EVMOS",
+            "address": "0xc8A2413D8ac65eC936F7350d6FF62ec603004565",
+            "symbol": "wEVMOS",
+            "decimals": 18,
+            "chainId": 9000,
+            "logoURI": "https://photonswap.finance/evmos.svg"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0x091267bc63B3d00ea8Db5A2831A289c5d882128c",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 9000,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}
