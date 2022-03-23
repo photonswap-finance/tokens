@@ -4,7 +4,7 @@
     "version": {
         "major": 12,
         "minor": 2,
-        "patch": 7
+        "patch": 9
     },
     "tags": {},
     "logoURI": "https://photonswap.finance/cro.png",
@@ -180,6 +180,14 @@
             "decimals": 9,
             "chainId": 25,
             "logoURI": "https://i.ibb.co/QpdN1x9/1-A92-E710-92-AC-47-E9-979-C-007502-DA9-B87.png"
+        },
+        {
+            "name": "Stabil",
+            "address": "0x80991d751Eb39dcD86FCcd19b261c39215795094",
+            "symbol": "STABIL",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://stabil.finance/logo512.png"
         }
     ]
 }
