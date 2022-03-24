@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 0
+        "patch": 1
     },
     "tags": {},
     "logoURI": "https://photonswap.finance/kava.svg",
@@ -15,10 +15,10 @@
         {
             "name": "Wrapped KAVA",
             "address": "0xbAAFeC4B6eF4F5E0bAFA850CBC48364B953EFCf9",
-            "symbol": "wKAVA",
+            "symbol": "WKAVA",
             "decimals": 18,
             "chainId": 2221,
-            "logoURI": "https://photonswap.finance/kava.svg"
+            "logoURI": "https://photonswap.finance/kava.png"
         },
         {
             "name": "PhotonSwap",
