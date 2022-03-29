@@ -2,7 +2,7 @@
     "name": "Cronos Token List",
     "timestamp": "2022-03-24T06:54:00.000Z",
     "version": {
-        "major": 13,
+        "major": 14,
         "minor": 0,
         "patch": 0
     },
@@ -188,6 +188,14 @@
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://stabil.finance/logo512.png"
+        }, 
+        {
+            "name": "ChowChow",
+            "address": "0x51D981B6A7d4b86a1b6a3727fA56153BDc1d3776",
+            "symbol": "$CHOW",
+            "decimals": 2,
+            "chainId": 25,
+            "logoURI": "https://www.chow-token.com/wp-content/uploads/2022/03/Chow-Logo-1-1-1.png"
         }
     ]
 }
