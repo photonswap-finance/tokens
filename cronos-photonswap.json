@@ -2,7 +2,7 @@
     "name": "Cronos Token List",
     "timestamp": "2022-03-24T06:54:00.000Z",
     "version": {
-        "major": 14,
+        "major": 15,
         "minor": 0,
         "patch": 0
     },
@@ -196,6 +196,14 @@
             "decimals": 2,
             "chainId": 25,
             "logoURI": "https://www.chow-token.com/wp-content/uploads/2022/03/Chow-Logo-1-1-1.png"
+        }, 
+        {
+            "name": "OnlyCryptoFans",
+            "address": "0xC7138Ccf4Fd367E89F8Cd465d802bB952D0737a7",
+            "symbol": "ONCRF",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://raw.githubusercontent.com/ONCRF/ONCRF-Token-List/main/logo256.png"
         }
     ]
 }
