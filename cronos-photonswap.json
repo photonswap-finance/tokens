@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-03-24T06:54:00.000Z",
+    "timestamp": "2022-04-21T20:38:00.000Z",
     "version": {
-        "major": 16,
+        "major": 17,
         "minor": 0,
         "patch": 0
     },
@@ -212,6 +212,14 @@
             "decimals": 9,
             "chainId": 25,
             "logoURI": "https://i.imgur.com/KTJkmWX.jpg"
+        }, 
+        {
+            "name": "EverCro",
+            "address": "0x34E2009063289c0fAa012047780381D49c9fd483",
+            "symbol": "EVER",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://uploads-ssl.webflow.com/624f203a5acf8a53c20c3f50/625bde396b16f5a49839df6d_Evercrologo12.png"
         }
     ]
 }
