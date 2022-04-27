@@ -1,0 +1,32 @@
+{
+    "name": "Shardeum Liberty Testnet",
+    "timestamp": "2022-03-27T12:20:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 1
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/shardeum.png",
+    "keywords": [
+        "SHARDEUM_LIBERTY_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped SHM",
+            "address": "0xA41b148AeCa0823292D370f95479C10630eC95CD",
+            "symbol": "WSHM",
+            "decimals": 18,
+            "chainId": 8080,
+            "logoURI": "https://photonswap.finance/shardeum.png"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0xE61671EA1Db1f752eA9aAb2B7c7Db29D4124Cd3C",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 8080,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}
