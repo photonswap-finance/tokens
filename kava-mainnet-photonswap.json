@@ -1,0 +1,32 @@
+{
+    "name": "Kava Mainnet",
+    "timestamp": "2022-05-28T06:20:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 1
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/kava.svg",
+    "keywords": [
+        "KAVA_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped KAVA",
+            "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+            "symbol": "WKAVA",
+            "decimals": 18,
+            "chainId": 2222,
+            "logoURI": "https://photonswap.finance/kava.png"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 2222,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}
