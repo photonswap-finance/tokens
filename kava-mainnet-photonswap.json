@@ -1,32 +1,74 @@
 {
-    "name": "Kava Mainnet",
-    "timestamp": "2022-05-28T06:20:00.000Z",
-    "version": {
-        "major": 1,
-        "minor": 0,
-        "patch": 1
+  "name": "Kava Mainnet",
+  "timestamp": "2022-05-09T11:00:00.000Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    
+  },
+  "logoURI": "https://photonswap.finance/kava.svg",
+  "keywords": [
+    "KAVA_TESTNET"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped KAVA",
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "symbol": "WKAVA",
+      "decimals": 18,
+      "chainId": 2222,
+      "logoURI": "https://photonswap.finance/kava.png"
     },
-    "tags": {},
-    "logoURI": "https://photonswap.finance/kava.svg",
-    "keywords": [
-        "KAVA_TESTNET"
-    ],
-    "tokens": [
-        {
-            "name": "Wrapped KAVA",
-            "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
-            "symbol": "WKAVA",
-            "decimals": 18,
-            "chainId": 2222,
-            "logoURI": "https://photonswap.finance/kava.png"
-        },
-        {
-            "name": "PhotonSwap",
-            "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
-            "symbol": "PHOTON",
-            "decimals": 18,
-            "chainId": 2222,
-            "logoURI": "https://photonswap.finance/photon.png"
-        }
-    ]
+    {
+      "name": "PhotonSwap",
+      "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
+      "symbol": "PHOTON",
+      "decimals": 18,
+      "chainId": 2222,
+      "logoURI": "https://photonswap.finance/photon.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "chainId": 2222,
+      "decimals": 18,
+      "address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/thumb/4943.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 2222,
+      "decimals": 18,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "chainId": 2222,
+      "decimals": 8,
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 2222,
+      "decimals": 6,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "chainId": 2222,
+      "decimals": 6,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    }
+  ]
 }
