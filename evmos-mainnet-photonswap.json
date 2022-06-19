@@ -2,7 +2,7 @@
   "name": "EVMOS Mainnet",
   "timestamp": "2022-02-27T05:20:00.000Z",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
     "patch": 0
   },
@@ -15,9 +15,9 @@
   ],
   "tokens": [
     {
-      "name": "PhotonSwap",
-      "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
-      "symbol": "PHOTON",
+      "name": "PhotonSwap EVMOS",
+      "address": "0xD53c77C895A77071D4b2E8CE8867D2914e7b481A",
+      "symbol": "EV-PHOTON",
       "decimals": 18,
       "chainId": 9001,
       "logoURI": "https://photonswap.finance/photon.png"
