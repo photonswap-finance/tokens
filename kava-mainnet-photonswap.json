@@ -4,14 +4,14 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {
     
   },
   "logoURI": "https://photonswap.finance/kava.svg",
   "keywords": [
-    "KAVA_TESTNET"
+    "KAVA_MAINNET"
   ],
   "tokens": [
     {
@@ -23,9 +23,9 @@
       "logoURI": "https://photonswap.finance/kava.png"
     },
     {
-      "name": "PhotonSwap",
+      "name": "PhotonSwap(Kava)",
       "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
-      "symbol": "PHOTON",
+      "symbol": "K-PHOTON",
       "decimals": 18,
       "chainId": 2222,
       "logoURI": "https://photonswap.finance/photon.png"
