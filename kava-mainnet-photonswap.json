@@ -1,8 +1,8 @@
 {
   "name": "Kava Mainnet",
-  "timestamp": "2022-06-18T11:00:00.000Z",
+  "timestamp": "2022-06-18T23:00:00.000Z",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
