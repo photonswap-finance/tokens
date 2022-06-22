@@ -1,8 +1,8 @@
 {
   "name": "Kava Mainnet",
-  "timestamp": "2022-06-18T23:00:00.000Z",
+  "timestamp": "2022-06-21T23:00:00.000Z",
   "version": {
-    "major": 6,
+    "major": 8,
     "minor": 0,
     "patch": 0
   },
@@ -69,6 +69,22 @@
       "decimals": 6,
       "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0xCa7350Ed65c2fC90A9DBF2D15C75E80EA91aB1c1",
+      "decimals": 6,
+      "name": "RUBY CACH",
+      "symbol": "RUBY",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0xa2c535EBF7A48572F61F9273E8dBF61a0A79610D/logo_24.png"
+    },
+    {
+      "chainId": 2222,
+      "address": "0x5547F680Ad0104273d0c007073B87f98dEF199c6",
+      "decimals": 18,
+      "name": "RUBY SHARE",
+      "symbol": "RSHARE",
+      "logoURI": "https://raw.githubusercontent.com/jupiterswap/tokens/main/assets/0x5547F680Ad0104273d0c007073B87f98dEF199c6/logo_24.png"
     }
   ]
 }
