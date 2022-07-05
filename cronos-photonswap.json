@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-07-05T20:38:00.000Z",
+    "timestamp": "2022-07-05T20:39:00.000Z",
     "version": {
-        "major": 18,
+        "major": 19,
         "minor": 0,
         "patch": 0
     },
@@ -84,14 +84,6 @@
             "decimals": 4,
             "chainId": 25,
             "logoURI": "https://photonswap.finance/crovid.png"
-        },
-        {
-            "name": "Crodoge",
-            "address": "0xA7aaf2d57179BdA516374b9947e608D01F6ED0A4",
-            "symbol": "CRODOGE",
-            "decimals": 4,
-            "chainId": 25,
-            "logoURI": "https://photonswap.finance/crodoge.jpeg"
         },
         {
             "name": "Wrapped Ether",
