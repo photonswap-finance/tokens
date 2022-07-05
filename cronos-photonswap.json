@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-04-21T20:38:00.000Z",
+    "timestamp": "2022-07-05T20:38:00.000Z",
     "version": {
-        "major": 17,
+        "major": 18,
         "minor": 0,
         "patch": 0
     },
@@ -174,28 +174,12 @@
             "logoURI": "https://static.wixstatic.com/media/2a0d11_9fc2bb2f9f9a4202bdb9a336a61da716~mv2.png"
         },
         {
-            "name": "CroBank",
-            "address": "0x55210C2a69b4c52a9d9289A257D54d35C4a2d2eC",
-            "symbol": "BANK",
-            "decimals": 9,
-            "chainId": 25,
-            "logoURI": "https://i.ibb.co/QpdN1x9/1-A92-E710-92-AC-47-E9-979-C-007502-DA9-B87.png"
-        },
-        {
             "name": "Stabil",
             "address": "0x80991d751Eb39dcD86FCcd19b261c39215795094",
             "symbol": "STABIL",
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://stabil.finance/logo512.png"
-        }, 
-        {
-            "name": "ChowChow",
-            "address": "0x51D981B6A7d4b86a1b6a3727fA56153BDc1d3776",
-            "symbol": "$CHOW",
-            "decimals": 2,
-            "chainId": 25,
-            "logoURI": "https://www.chow-token.com/wp-content/uploads/2022/03/Chow-Logo-1-1-1.png"
         }, 
         {
             "name": "OnlyCryptoFans",
@@ -220,6 +204,14 @@
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://uploads-ssl.webflow.com/624f203a5acf8a53c20c3f50/625bde396b16f5a49839df6d_Evercrologo12.png"
+        }, 
+        {
+            "name": "CleanMafia",
+            "address": "0xb5E503f0efd839113192640Da5bCA5E233Ed9e83",
+            "symbol": "CroCLEAN",
+            "decimals": 9,
+            "chainId": 25,
+            "logoURI": "https://pbs.twimg.com/profile_images/1538052907987132417/-lWu8YWi_400x400.jpg"
         }
     ]
 }
