@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-07-05T20:39:00.000Z",
+    "timestamp": "2022-07-20T00:39:00.000Z",
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     },
@@ -150,14 +150,6 @@
             "logoURI": "https://static.wixstatic.com/media/c53232_29ee50f2e8914585a9f22461cff72358~mv2.png"
         },
         {
-            "name": "Micro Finance",
-            "address": "0x704a51BdAcC8cB12d2E73d64E0af961d59DE53D6",
-            "symbol": "MCRO",
-            "decimals": 18,
-            "chainId": 25,
-            "logoURI": "https://pbs.twimg.com/profile_images/1490010410489110528/nMaA5nWW_400x400.jpg"
-        },
-        {
             "name": "DeliverCoin",
             "address": "0x058EebF75265022Acb0Ece05D9d61082E3e46c75",
             "symbol": "DLC",
@@ -204,6 +196,14 @@
             "decimals": 9,
             "chainId": 25,
             "logoURI": "https://pbs.twimg.com/profile_images/1538052907987132417/-lWu8YWi_400x400.jpg"
-        }
+        },
+        {
+            "name": "CGX Token",
+            "address": "0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c",
+            "symbol": "CGX",
+            "decimals": 18,
+            "chainId": 25,
+            "logoURI": "https://cgx.finance/images/tokens/0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c.svg"
+        },
     ]
 }
