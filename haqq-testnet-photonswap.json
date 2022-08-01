@@ -1,0 +1,32 @@
+{
+    "name": "Shardeum Testnet",
+    "timestamp": "2022-07-27T13:20:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/shardeum.png",
+    "keywords": [
+        "HAQQ_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped ISLM",
+            "address": "0xbAAFeC4B6eF4F5E0bAFA850CBC48364B953EFCf9",
+            "symbol": "WISLM",
+            "decimals": 18,
+            "chainId": 53211,
+            "logoURI": "https://photonswap.finance/shardeum.png"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 53211,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}
