@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-07-20T00:40:00.000Z",
+    "timestamp": "2022-08-04T00:40:00.000Z",
     "version": {
-        "major": 21,
+        "major": 22,
         "minor": 0,
         "patch": 0
     },
@@ -204,6 +204,14 @@
             "decimals": 18,
             "chainId": 25,
             "logoURI": "https://cgx.finance/images/tokens/0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c.svg"
+        },
+        {
+            "name": "Cronos Only Gems",
+            "address": "0x7f9879e85F3ECFAF0e4e8d1C1158BF419DE95Ea0",
+            "symbol": "COG",
+            "decimals": 9,
+            "chainId": 25,
+            "logoURI": "https://i.imgur.com/L1ssX1F.jpg"
         }
     ]
 }
