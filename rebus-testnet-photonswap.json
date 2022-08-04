@@ -1,0 +1,32 @@
+{
+    "name": "Rebus Testnet",
+    "timestamp": "2022-07-27T13:20:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://photonswap.finance/shardeum.png",
+    "keywords": [
+        "REBUS_TESTNET"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped REBUS",
+            "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
+            "symbol": "WREBUS",
+            "decimals": 18,
+            "chainId": 3333,
+            "logoURI": "https://global-uploads.webflow.com/6257b52d5ba30091f5056b4d/6257bacc8ea23a1d966a6d47_Rebus%20Logo.svg"
+        },
+        {
+            "name": "PhotonSwap",
+            "address": "0xa96b215232Df8bdA254d315A9B4685bf29dea225",
+            "symbol": "PHOTON",
+            "decimals": 18,
+            "chainId": 3333,
+            "logoURI": "https://photonswap.finance/photon.png"
+        }
+    ]
+}
