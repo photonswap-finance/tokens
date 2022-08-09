@@ -1,0 +1,82 @@
+{
+  "name": "Mintme Mainnet",
+  "timestamp": "2022-06-22T23:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    
+  },
+  "logoURI": "https://photonswap.finance/mintme.png",
+  "keywords": [
+    "MINTME_MAINNET"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped MintMe",
+      "address": "0xa297432E5c707435cd2249f78978206626dcA17C",
+      "symbol": "WMINTME",
+      "decimals": 18,
+      "chainId": 24734,
+      "logoURI": "https://photonswap.finance/mintme.png"
+    },
+    {
+      "name": "PhotonSwap MintMe",
+      "address": "0xBf4d92ACe7d60ec65744c271E9ed1Cc75e44d6f9",
+      "symbol": "M-PHOTON",
+      "decimals": 18,
+      "chainId": 24734,
+      "logoURI": "https://photonswap.finance/photon.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "chainId": 24734,
+      "decimals": 18,
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "chainId": 24734,
+      "decimals": 8,
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "chainId": 24734,
+      "decimals": 6,
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "chainId": 24734,
+      "decimals": 6,
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    },
+    {
+      "name": "Cronos",
+      "symbol": "CRO",
+      "chainId": 24734,
+      "decimals": 18,
+      "address": "0xdfe3a98aa33c3393792e5e53e222f82f0b6482c0",
+      "logoURI": "https://photonswap.finance/cro.png"
+    },
+    {
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "chainId": 24734,
+      "decimals": 18,
+      "address": "0x89456efa718884f48b51f4790557b4981ffc0aa2",
+      "logoURI": "https://photonswap.finance/bnb.png"
+    }
+  ]
+}
