@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-08-04T00:40:00.000Z",
+    "timestamp": "2022-08-15T00:40:00.000Z",
     "version": {
-        "major": 22,
+        "major": 23,
         "minor": 0,
         "patch": 0
     },
@@ -212,6 +212,14 @@
             "decimals": 9,
             "chainId": 25,
             "logoURI": "https://i.imgur.com/L1ssX1F.jpg"
+        },
+        {
+          "name": "MintMe Coin",
+          "address": "0xd652776dE7Ad802be5EC7beBfafdA37600222B48",
+          "symbol": "MINTME",
+          "decimals": 18,
+          "chainId": 25,
+          "logoURI": "https://photonswap.finance/mintme.png"
         }
     ]
 }
