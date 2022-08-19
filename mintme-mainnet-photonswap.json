@@ -1,8 +1,8 @@
 {
   "name": "Mintme Mainnet",
-  "timestamp": "2022-06-22T23:00:00.000Z",
+  "timestamp": "2022-06-23T23:00:00.000Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -35,7 +35,7 @@
       "symbol": "WETH",
       "chainId": 24734,
       "decimals": 18,
-      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "address": "0x818938a83036B18a44F2DDf43D47454f6aE49BD6",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
@@ -43,7 +43,7 @@
       "symbol": "WBTC",
       "chainId": 24734,
       "decimals": 8,
-      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "address": "0x67F44cb704884e0eB53C48feC8F1b1E7F8A63729",
       "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
     },
     {
@@ -51,7 +51,7 @@
       "symbol": "USDC",
       "chainId": 24734,
       "decimals": 6,
-      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "address": "0xDcB579AA78e35e34581c72c291D493105949ac27",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
@@ -59,7 +59,7 @@
       "symbol": "USDT",
       "chainId": 24734,
       "decimals": 6,
-      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "address": "0xAaE3F40C4D02C9CFA7d5cb6F371226B3FA9C8fc8",
       "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
     },
     {
