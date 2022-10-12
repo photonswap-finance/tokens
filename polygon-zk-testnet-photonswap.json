@@ -1,15 +1,15 @@
 {
-    "name": "Polygon zkEVM Testnet",
+    "name": "Polygon zkEVM",
     "timestamp": "2022-10-12T06:20:00.000Z",
     "version": {
-        "major": 1,
+        "major": 2,
         "minor": 0,
         "patch": 0
     },
     "tags": {},
     "logoURI": "https://public.zkevm-test.net:8443/images/blockscout_logo-fd31b179b2479ca682248d3637f14f94.svg",
     "keywords": [
-        "POLYGON_ZKEVM_TESTNET",
+        "ZKEVM_TESTNET",
         "ZK_EVM",
         "POLYGON_ZK_EVM"
     ],
