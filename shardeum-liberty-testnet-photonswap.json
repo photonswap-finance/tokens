@@ -1,8 +1,8 @@
 {
     "name": "Shardeum Testnet",
-    "timestamp": "2022-09-27T13:20:00.000Z",
+    "timestamp": "2022-11-14T13:20:00.000Z",
     "version": {
-        "major": 4,
+        "major": 5,
         "minor": 0,
         "patch": 0
     },
@@ -14,7 +14,7 @@
     "tokens": [
         {
             "name": "Wrapped SHM",
-            "address": "0xf0Cb49A0eF47E62cb2471239c89eb890caCc1eb9",
+            "address": "0x1c671d6fEC45Ec0de88C82e6D8536bFe33F00c8a",
             "symbol": "WSHM",
             "decimals": 18,
             "chainId": 8080,
@@ -22,7 +22,7 @@
         },
         {
             "name": "PhotonSwap",
-            "address": "0x7F03E357B8e9337fb87d6be2C50F5FEc7934797c",
+            "address": "0xa5B75a13278D216Bc68a57aa57C138DFAF17Ea49",
             "symbol": "PHOTON",
             "decimals": 18,
             "chainId": 8080,
