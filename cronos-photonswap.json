@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-09-06T00:40:00.000Z",
+    "timestamp": "2022-09-07T00:40:00.000Z",
     "version": {
-        "major": 24,
+        "major": 25,
         "minor": 0,
         "patch": 0
     },
@@ -228,6 +228,14 @@
           "decimals": 18,
           "chainId": 25,
           "logoURI": "https://static.wixstatic.com/media/c53232_4d23a1b0d53141178d64972143450aa8~mv2.png"
+        },
+        {
+          "name": "NestEgg Financial Token",
+          "address": "0xF66f5B06777e88021563668c6ad55dd97c298982",
+          "symbol": "NFT",
+          "decimals": 18,
+          "chainId": 25,
+          "logoURI": "https://static.wixstatic.com/media/c53232_4572fbcab0704b578da1a6249b8c301e~mv2.png"
         }
     ]
 }
