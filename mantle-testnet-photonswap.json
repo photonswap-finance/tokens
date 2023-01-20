@@ -1,0 +1,66 @@
+{
+  "name": "Mantle Testnet",
+  "timestamp": "2023-01-23T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    
+  },
+  "logoURI": "https://uc61fae152f7177aa63a828c0971.previews.dropboxusercontent.com/p/thumb/AByVSt-X6HTGUH99Fzf_KRTmAIxmJnnS6YhFfStdvYK5Q12Z9QFCsfoJhGCKXuOwOsjOknddUBwFgvNoNvHgyfgtvFikMoMTZjpkMDE6O9u07_EhSJGLGtRFXEwL57pIYFubdqpc9sfCuF8m7bNtQZnqkGRFTX5rXEDrzW-7tyK6MXWAGcicMOGQVdXVWAk_4JSAtYdyrM8nkTpZFhEReR2Xj47LWkQuz2ppwXx79yxLumuhKw3yj9XIsN_LzMOUMfM1aRCommm6iQaSYYAaTv3AZKqNuh_UDlMMKeyo1OnyDgTw3XSf69zw5TozKF0i1RhlSkeo-y1Z_8YKi3s3rrCM2TGbYmI6ZQJhKIESkMeSlLV05enFdTjHdLHg0jp6Vy0/p.png",
+  "keywords": [
+    "MANTLE_TESTNET"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped BIT",
+      "address": "0xbAAFeC4B6eF4F5E0bAFA850CBC48364B953EFCf9",
+      "symbol": "WBIT",
+      "decimals": 18,
+      "chainId": 5001,
+      "logoURI": "https://assets.coingecko.com/coins/images/17627/small/rI_YptK8.png?1653983088"
+    },
+    {
+      "name": "PhotonSwap",
+      "address": "0xFe1919914Ea7a3Dd622cd3D3495d21D4218aA360",
+      "symbol": "PHOTON",
+      "decimals": 18,
+      "chainId": 5001,
+      "logoURI": "https://photonswap.finance/photon.png"
+    },
+    {
+      "name": "Mock Ether",
+      "symbol": "ETH",
+      "chainId": 5001,
+      "decimals": 18,
+      "address": "0xB7D0AE4E4d1343bc5e3fE940DA06D84350cdbCE8",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Mock BTC",
+      "symbol": "BTC",
+      "chainId": 5001,
+      "decimals": 8,
+      "address": "0x2fe85a78476f8B6d54aA6e1e0598Ba8b82619551",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "MockUSDC",
+      "symbol": "USDC",
+      "chainId": 5001,
+      "decimals": 6,
+      "address": "0xB24ae1b750b4456a0b972bE4DC6CE4Fd1Debba1f",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "MockUSDT",
+      "symbol": "USDT",
+      "chainId": 5001,
+      "decimals": 6,
+      "address": "0xA89Bd45fE95a2892c4CAb0b5FAcf93258C0D056c",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    }
+  ]
+}
