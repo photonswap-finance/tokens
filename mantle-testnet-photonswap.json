@@ -2,14 +2,14 @@
   "name": "Mantle Testnet",
   "timestamp": "2023-01-23T00:00:00.000Z",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
   "tags": {
     
   },
-  "logoURI": "https://uc61fae152f7177aa63a828c0971.previews.dropboxusercontent.com/p/thumb/AByVSt-X6HTGUH99Fzf_KRTmAIxmJnnS6YhFfStdvYK5Q12Z9QFCsfoJhGCKXuOwOsjOknddUBwFgvNoNvHgyfgtvFikMoMTZjpkMDE6O9u07_EhSJGLGtRFXEwL57pIYFubdqpc9sfCuF8m7bNtQZnqkGRFTX5rXEDrzW-7tyK6MXWAGcicMOGQVdXVWAk_4JSAtYdyrM8nkTpZFhEReR2Xj47LWkQuz2ppwXx79yxLumuhKw3yj9XIsN_LzMOUMfM1aRCommm6iQaSYYAaTv3AZKqNuh_UDlMMKeyo1OnyDgTw3XSf69zw5TozKF0i1RhlSkeo-y1Z_8YKi3s3rrCM2TGbYmI6ZQJhKIESkMeSlLV05enFdTjHdLHg0jp6Vy0/p.png",
+  "logoURI": "https://photonswap.finance/mantle.png",
   "keywords": [
     "MANTLE_TESTNET"
   ],
