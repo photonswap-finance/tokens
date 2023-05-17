@@ -2,7 +2,7 @@
     "name": "Cronos Token List",
     "timestamp": "2022-09-07T00:40:00.000Z",
     "version": {
-        "major": 25,
+        "major": 26,
         "minor": 0,
         "patch": 0
     },
@@ -236,6 +236,14 @@
           "decimals": 18,
           "chainId": 25,
           "logoURI": "https://static.wixstatic.com/media/c53232_4572fbcab0704b578da1a6249b8c301e~mv2.png"
+        },
+        {
+          "name": "MP9",
+          "address": "0x8324458394C625aB05472D0E60dC90A6918607F7",
+          "symbol": "Mp9",
+          "decimals": 18,
+          "chainId": 25,
+          "logoURI": "https://raw.githubusercontent.com/RedlightLLC/Resources/main/Untitled%20design%20-%202023-05-09T160254.915.png"
         }
     ]
 }
