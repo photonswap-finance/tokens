@@ -1,0 +1,58 @@
+{
+  "name": "Sepolia Testnet",
+  "timestamp": "2023-05-30T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    
+  },
+  "logoURI": "https://chainlist.org/unknown-logo.png",
+  "keywords": [
+    "SEPOLIA_TESTNET"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "address": "0xbAAFeC4B6eF4F5E0bAFA850CBC48364B953EFCf9",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "PhotonSwap",
+      "address": "0xA8eFf8BB28c6193CBE8BcFb8276e9b1dD3380B13",
+      "symbol": "PHOTON",
+      "decimals": 18,
+      "chainId": 11155111,
+      "logoURI": "https://photonswap.finance/photon.png"
+    },
+    {
+      "name": "Mock BTC",
+      "symbol": "BTC",
+      "chainId": 11155111,
+      "decimals": 8,
+      "address": "0xa5B75a13278D216Bc68a57aa57C138DFAF17Ea49",
+      "logoURI": "https://assets.coingecko.com/coins/images/14867/thumb/binance-btc_32.png"
+    },
+    {
+      "name": "MockUSDC",
+      "symbol": "USDC",
+      "chainId": 11155111,
+      "decimals": 6,
+      "address": "0xA41b148AeCa0823292D370f95479C10630eC95CD",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "MockUSDT",
+      "symbol": "USDT",
+      "chainId": 11155111,
+      "decimals": 6,
+      "address": "0xa96b215232Df8bdA254d315A9B4685bf29dea225",
+      "logoURI": "https://assets.coingecko.com/coins/images/325/thumb/Tether-logo.png"
+    }
+  ]
+}
