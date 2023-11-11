@@ -1,8 +1,8 @@
 {
     "name": "Cronos Token List",
-    "timestamp": "2022-09-07T00:40:00.000Z",
+    "timestamp": "2023-11-011T00:40:00.000Z",
     "version": {
-        "major": 26,
+        "major": 27,
         "minor": 0,
         "patch": 0
     },
@@ -198,12 +198,12 @@
             "logoURI": "https://pbs.twimg.com/profile_images/1538052907987132417/-lWu8YWi_400x400.jpg"
         },
         {
-            "name": "CGX Token",
-            "address": "0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c",
-            "symbol": "CGX",
+            "name": "Burn CRO",
+            "address": "0x06725e8c3c54A1D3A7109E43a2d928a7De462eaa",
+            "symbol": "BC",
             "decimals": 18,
             "chainId": 25,
-            "logoURI": "https://cgx.finance/images/tokens/0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c.svg"
+            "logoURI": "https://photonswap.finance/bc.png"
         },
         {
             "name": "Cronos Only Gems",
